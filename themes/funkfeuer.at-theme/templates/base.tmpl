@@ -1,0 +1,37 @@
+## -*- coding: utf-8 -*-
+<%namespace name="base" file="base_helper.tmpl" import="*"/>
+<%namespace name="header" file="base_header.tmpl" import="*"/>
+<%namespace name="footer" file="base_footer.tmpl" import="*"/>
+<%namespace name="annotations" file="annotation_helper.tmpl"/>
+${set_locale(lang)}
+${base.html_headstart()}
+<%block name="extra_head">
+### Leave this block alone.
+</%block>
+${template_hooks['extra_head']()}
+  </head>
+  <body>
+    <div class="docs-header">
+      <!--nav-->
+      <nav class="navbar navbar-default navbar-custom" role="navigation">
+        <div class="container">
+${header.html_site_title()}
+${header.html_navigation_links()}
+        </div>
+      </nav>
+      
+      <!--header-->
+      <%block name="content_head"></%block>
+    </div>
+    <!-- site-main -->
+    <div class="page">
+      <%block name="content"></%block>
+    </div>
+  <!-- site-footer -->
+  ${footer.html_footer()}
+  ${body_end}
+  ${template_hooks['body_end']()}
+  ${base.late_load_js()}
+  <%block name="extra_js"></%block>
+</body>
+</html>

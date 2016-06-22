@@ -1,1 +1,3 @@
-*.py
+/cache/
+/output/
+*.pyc

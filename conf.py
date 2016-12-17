@@ -5,7 +5,7 @@ import time
 
 BLOG_AUTHOR = "FunkFeuer"  # (translatable)
 BLOG_TITLE = "FunkFeuer"  # (translatable)
-SITE_URL = "https://funkfeuer.at/"
+SITE_URL = "/"
 BLOG_EMAIL = "root@localhost"
 BLOG_DESCRIPTION = "Chaos Computer Club Wien"  # (translatable)
 THEME = 'funkfeuer.at-theme'
@@ -25,19 +25,14 @@ TRANSLATIONS = {
 }
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-		('/aktuelles/', 'Aktuelles'),
-		('/mitmachen/', 'Mitmachen'),
-		('/events/', 'Events'),
-		('/presse/', 'Pressespiegel'),
-#        ('/archive.html', 'Archiv'),
-#		('/categories/index.html', 'Tags'),
-#		('/rss.xml', 'RSS'),
-#        ((('/foo', 'FOO'),
-#          ('/bar', 'BAR')), 'BAZ'),
+#		('https://wiki.funkfeuer.at/', 'Wiki'),
+        ('/housing/', 'Server Housing'),
+        ('/presse/', 'Presse'),
+		('/impressum/', 'Impressum'),
 	),
 }
 
-CONTENT_FOOTER = 'Die <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Inhalte</span> stehen unter <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> &#8208; <a href="/impressum/">Impressum</a>'
+CONTENT_FOOTER = 'FunkFeuer Wien - Verein zur Förderung freier Netze &#8208; <a href="/impressum/">Impressum</a>'
 TIMEZONE = "Europe/Vienna"
 
 COMPILERS = {
@@ -48,7 +43,7 @@ COMPILERS = {
 
 # Writes tag cloud data in form of tag_cloud_data.json.
 # Warning: this option will change its default value to False in v8!
-WRITE_TAG_CLOUD = True
+WRITE_TAG_CLOUD = False
 
 IMAGE_FOLDERS = {'images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400

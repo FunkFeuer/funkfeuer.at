@@ -26,9 +26,9 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	('https://wiki.funkfeuer.at/', 'Wiki'),
-#        ('/housing/', 'Server Housing'),
+        ('https://housing.funkfeuer.at/', 'Server Housing'),
         ('https://wiki.funkfeuer.at/wiki/0xFF_in_der_Presse', 'Presse'),
-	('/impressum/', 'Impressum'),
+	('/impressum/', 'Kontakt'),
 	),
 }
 

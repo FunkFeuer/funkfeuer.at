@@ -16,7 +16,7 @@ Infrastruktur und Wissen zur Verfügung zu stellen.<br/>
 Jede Person stellt ihren Knoten anderen Teilnehmer_innen zur 
 Datenübertragung nach den Grundsätzen des 
 [Pico Peering Agreement](http://www.picopeer.net/PPA-de.shtml) zur Verfügung 
-und ermöglicht damit freien Datenverkehr innerhalb des Funkfeuer-Netzes.
+und ermöglicht damit freien Datenverkehr innerhalb des Netzes.
 
 Bei Funkfeuer steht der DIY (Do It Yourself) Gedanke im Vordergrund.
 Jeder Knoten im Netz wird von Freiwilligen aufgebaut und betrieben, die 
@@ -75,23 +75,33 @@ Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits
 
 <hr class="dashed" />
 <h2>Unterstützt von:</h2>
-<div class="row">
+<div class="row sponsors">
 	<div class="col-md-4">
-		<img class="center-block" src="assets/images/sponsors/nextlayer.png"/>
+		<a href="https://nextlayer.at" target="_blank" rel="external nofollow">
+			<img class="center-block" src="assets/images/sponsors/nextlayer.png"/>
+		</a>
 	</div>
 	<div class="col-md-4">
-		<img class="center-block" src="assets/images/sponsors/nessus.png"/>
+		<a href="https://nessus.at" target="_blank" rel="external nofollow">
+			<img class="center-block" src="assets/images/sponsors/nessus.png"/>
+		</a>
 	</div>
 	<div class="col-md-4">
-		<img class="center-block" src="assets/images/sponsors/sil.gif"/>
+		<a href="https://sil.at" target="_blank" rel="external nofollow">
+			<img class="center-block" src="assets/images/sponsors/sil.png"/>
+		</a>
 	</div>
 </div>
-<div class="row">
+<div class="row sponsors">
 	<div class="col-md-6">
-		<img class="center-block" src="assets/images/sponsors/easyname.png"/>
+		<a href="https://easyname.at" target="_blank" rel="external nofollow">
+			<img class="center-block" src="assets/images/sponsors/easyname.png"/>
+		</a>
 	</div>
 	<div class="col-md-6">
-		<img class="center-block" src="assets/images/sponsors/graz_kultur.png"/>
+		<a href="http://kultur.graz.at/" target="_blank" rel="external nofollow">
+			<img class="center-block" src="assets/images/sponsors/graz.png"/>
+		</a>
 	</div>
 </div>
 

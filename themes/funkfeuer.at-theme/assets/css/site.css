@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .page > article {
+    padding-top: 2em;
     padding-bottom: 2em;
 }
 
@@ -237,7 +238,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     position: relative;
     top: 10px;
 }
-
+.sponsors img {
+    margin-top: 0.5em
+}
 
 @media (max-width: 768px) {
     .docs-header {

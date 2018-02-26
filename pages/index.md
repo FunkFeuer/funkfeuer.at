@@ -1,12 +1,14 @@
-.. title: Home
+.. title: Funkfeuer - Initiative für freie Netze
 .. slug: index
 .. date: 1970-01-01 00:00:00 UTC
 .. hidetitle: True
 .. tags:
 .. link:
-.. description:
+.. description: Funkfeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke. Es soll dabei ein nicht reguliertes Netz entstehen, welches das Potential  hat, den digitalen Graben zwischen den sozialen Schichten zu überbrücken und so Infrastruktur und Wissen zur Verfügung zu stellen.
 .. template: index_page.tmpl
+.. previewimage: https://funkfeuer.at/assets/images/card.png
 
+## [Nachruf an Alexander Röhsler, unseren Freund und Vereinskollegen](/alex/)
 
 # Was ist Funkfeuer?
 Funkfeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke. 

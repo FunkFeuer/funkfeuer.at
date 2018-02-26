@@ -3,14 +3,24 @@
 from __future__ import unicode_literals
 import time
 
-BLOG_AUTHOR = "FunkFeuer"  # (translatable)
-BLOG_TITLE = "FunkFeuer"  # (translatable)
+BLOG_AUTHOR = "FunkFeuer Wien - Verein zur Förderung freier Netze"
+BLOG_TITLE = "Funkfeuer.at"
 SITE_URL = "/"
-BLOG_EMAIL = "root@localhost"
-BLOG_DESCRIPTION = "Chaos Computer Club Wien"  # (translatable)
+BLOG_EMAIL = "admin@funkfeuer.at"
+BLOG_DESCRIPTION = "FunkFeuer.at"
 THEME = 'funkfeuer.at-theme'
 USE_BUNDLES = False
 
+FAVICONS = (
+     ("icon", "assets/favicon.ico", "16x16"),
+ )
+
+TWITTER_CARD = {
+	'use_twitter_cards': True,
+	'card': 'summary',
+	'site': '@Funkfeuer_at',
+	'creator': '@Funkfeuer_at',
+}
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
@@ -69,6 +79,7 @@ CONTENT_FOOTER_FORMATS = {
 }
 STRIP_INDEXES = True
 PRETTY_URLS = True
+COPY_SOURCES = False
 MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra', 'attr_list', 'admonition']
 UNSLUGIFY_TITLES = True
 ENABLE_AUTHOR_PAGES = False

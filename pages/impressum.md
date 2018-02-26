@@ -5,6 +5,8 @@
 .. tags:
 .. link:
 .. description:
+.. previewimage: https://funkfeuer.at/assets/images/card.png
+
 
 # Impressum / Kontakt
 

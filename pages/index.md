@@ -66,7 +66,7 @@ Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits
 !!! initiative "Salzburg"
     Salzburg ist momentan im Aufbruch und dabei, ein eigenes Netz aufzubauen. 
     Wohnst auch Du in der Gegend und möchtest mitmachen? Gib uns Bescheid!
-    [mehr Information...](http://salzburg.funkfeuer.at/){style="margin-left: 1px; display:block"}
+    [mehr Information...](https://wiki.freifunk.net/Funkfeuer_Salzburg){style="margin-left: 1px; display:block"}
 
 !!! initiative "Bei Dir"
     Es gibt noch keine Funkfeuer-Knoten in deiner Gegend? Dann bist Du die oder 

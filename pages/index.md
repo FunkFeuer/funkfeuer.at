@@ -8,29 +8,6 @@
 .. template: index_page.tmpl
 .. previewimage: https://funkfeuer.at/assets/images/card.png
 
-!!! initiative "Aktuell: BattleMesh &amp; Wireless Community Weekend in Berlin &mdash; 7.-13. Mai 2018"
-    Das heurige [BattleMesh V11](https://www.battlemesh.org/),
-    das große Community-Treffen von Mesh-Begeisterten, findet heuer
-    gemeinsam mit dem [Wireless Community Weekend](https://www.wireless-meshup.org/doku.php/start)
-    der Freifunk-Gemeinschaft statt:
-
-    **Montag 07. bis Sonntag 13. Mai 2018, c-base Berlin (DE)**
-
-    Wie schon bei der von Funkfeuer mitorganisierten
-    [Ausgabe im letzten Jahr](https://www.battlemesh.org/BattleMeshV10)
-    erwarten uns spannende Tage voll Diskussion über und Entwicklung an
-    Technik, Politik und gesellschaftlicher Wirkung von gemeinschaftlich
-    organisierten und betriebenen Funknetzwerken mit Forscher_innen,
-    Open-Source-Programmierer_innen, Betreiber_innen von freien
-    WLAN-Netzen und Netzaktivist_innen aus aller Welt.
-
-    Die Veranstaltung wird von Funkfeuer Wien mitorganisiert
-    und ist **offen und gratis zugänglich für alle**!
-    Funkfeuer Wien unterstützt den Gedanken des Austausches
-    und der Kooperation zwischen den Communitys, den
-    BattleMesh verkörpert. Wir freuen uns auf eine von unseren
-    gemeinsamen Interessen und Zielen getragene Veranstaltung!
-
 ## [Nachruf an Alexander Röhsler, unseren Freund und Vereinskollegen](/alex/)
 
 # Was ist Funkfeuer?

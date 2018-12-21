@@ -8,14 +8,12 @@
 .. template: index_page.tmpl
 .. previewimage: https://funkfeuer.at/assets/images/card.png
 
-## [Nachruf an Alexander Röhsler, unseren Freund und Vereinskollegen](/alex/)
-
 # Was ist Funkfeuer?
 Funkfeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke. 
 Es soll dabei ein nicht reguliertes Netz entstehen, welches das Potential 
 hat, den digitalen Graben zwischen den sozialen Schichten zu überbrücken und so 
 Infrastruktur und Wissen zur Verfügung zu stellen.<br/>
-Jede Person stellt ihren Knoten anderen Teilnehmer_innen zur 
+Jede Person stellt ihren Knoten anderen Teilnehmern zur 
 Datenübertragung nach den Grundsätzen des 
 [Pico Peering Agreement](http://www.picopeer.net/PPA-de.shtml) zur Verfügung 
 und ermöglicht damit freien Datenverkehr innerhalb des Netzes.
@@ -31,12 +29,12 @@ gemeinsames Funknetzwerk über den Dächern.
 Dabei gibt es keine Zentrale, jeder Knoten ist mit mehreren anderen Knoten 
 verbunden. Wenn ein Knoten aus dem Netzwerk ausfällt suchen dessen Nachbarn 
 automatisch eine andere Route.
-Einige Knoten bilden einen direkten Übergang ins Internet, womit alle Menschen 
+Einige Knoten bilden einen direkten Übergang ins Internet, womit alle Teilnehmer 
 im Funkfeuer-Netz Teil des globalen Internets sind.
 
 
 # Wie kann ich mitmachen?
-Jede_r kann mitmachen, wir bauen unser Netzwerk selbst!
+Jeder kann mitmachen, wir bauen unser Netzwerk selbst!
 
 Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits Initiativen:
 
@@ -58,7 +56,7 @@ Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits
     [mehr Information...](http://wels.funkfeuer.at/){style="margin-left: 1px; display:block"}
 
 !!! initiative "Innsbruck"
-    Die Freifunker in Innsbruck sind seit Herbst 2015 am basteln und haben seit
+    Die Freifunker in Innsbruck sind seit Herbst 2015 am Basteln und haben seit
     Mai 2016 ein aktives Netz. Allerdings werden noch dringend Leute
     gesucht, die technisch mitarbeiten wollen und Standorte für Knoten bieten.
     [mehr Information...](https://freifunk-innsbruck.at/){style="margin-left: 1px; display:block"}
@@ -69,10 +67,10 @@ Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits
     [mehr Information...](https://wiki.freifunk.net/Funkfeuer_Salzburg){style="margin-left: 1px; display:block"}
 
 !!! initiative "Bei Dir"
-    Es gibt noch keine Funkfeuer-Knoten in deiner Gegend? Dann bist Du die oder 
+    Es gibt noch keine Funkfeuer-Knoten in deiner Gegend? Dann bist Du 
     der Erste und andere werden Dir bald folgen. Mach mit und entzünde ein 
     Funkfeuer! Hol Dir Tipps bei einer der bestehenden Initiativen, oder geh direkt 
-    zum Wiki und mach Deinen Router fit für Funkfeuer.
+    zum Wiki und mache Deinen Router fit für Funkfeuer.
     [mehr Information...](https://wiki.funkfeuer.at/){style="margin-left: 1px; display:block"}
 
 <hr class="dashed" />

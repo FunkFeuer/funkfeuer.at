@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 import time
 
 BLOG_AUTHOR = "FunkFeuer Wien - Verein zur Förderung freier Netze"
-BLOG_TITLE = "Funkfeuer.at"
+BLOG_TITLE = "FunkFeuer.at"
 SITE_URL = "/"
 BLOG_EMAIL = "admin@funkfeuer.at"
 BLOG_DESCRIPTION = "FunkFeuer.at"

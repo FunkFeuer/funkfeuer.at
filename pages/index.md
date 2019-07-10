@@ -26,8 +26,6 @@
     Verpflegung und Unterkünfte.
 
 
-## [Nachruf an Alexander Röhsler, unseren Freund und Vereinskollegen](/alex/)
-
 # Was ist FunkFeuer?
 FunkFeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke.
 Es soll dabei ein nicht reguliertes Netz entstehen, welches das Potential

@@ -16,10 +16,10 @@ FAVICONS = (
  )
 
 TWITTER_CARD = {
-	'use_twitter_cards': True,
-	'card': 'summary',
-	'site': '@Funkfeuer_at',
-	'creator': '@Funkfeuer_at',
+    'use_twitter_cards': True,
+    'card': 'summary',
+    'site': '@Funkfeuer_at',
+    'creator': '@Funkfeuer_at',
 }
 
 # A HTML fragment describing the license, for the sidebar.
@@ -35,12 +35,13 @@ TRANSLATIONS = {
 }
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-	('https://wiki.funkfeuer.at/', 'Wiki'),
-	('https://forum.funkfeuer.at/', 'Forum'),
+        ('https://map.funkfeuer.at/', 'Karte'),
+        ('https://wiki.funkfeuer.at/', 'Wiki'),
+        ('https://forum.funkfeuer.at/', 'Forum'),
         ('https://housing.funkfeuer.at/', 'Server Housing'),
         ('https://wiki.funkfeuer.at/wiki/0xFF_in_der_Presse', 'Presse'),
-	('/impressum/', 'Kontakt'),
-	),
+        ('/impressum/', 'Kontakt'),
+    ),
 }
 
 CONTENT_FOOTER = 'FunkFeuer Wien - Verein zur Förderung freier Netze &#8208; <a href="/impressum/">Impressum</a>'

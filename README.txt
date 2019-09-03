@@ -1,4 +1,4 @@
-This folder contains the nikola configuration and references for content and themes of c3w.at and is all you need to set up your local copy of the site.
+This folder contains the nikola configuration and references for content and themes of funkfeuer.at and is all you need to set up your local copy of the site.
 
 Installation and documentation of nikola can be found at https://getnikola.com/
 

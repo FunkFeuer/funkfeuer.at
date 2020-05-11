@@ -8,24 +8,6 @@
 .. template: index_page.tmpl
 .. previewimage: https://funkfeuer.at/assets/images/card.png
 
-!!! initiative "Aktuell: Wireless Battle of the Mesh &mdash; Building Community Networks for Fun and Non-Profit &mdash; Saint-Denis / Paris, 8.-14. Juli 2019"
-
-    Das heurige [BattleMesh V12](https://www.battlemesh.org/BattleMeshV12),
-    das große Community-Treffen von Mesh-Begeisterten, findet statt von
-
-    **von Montag 08. bis Sonntag 14. Juli 2019 in Saint-Denis / Paris, Frankreich.**
-
-    Die Veranstaltung bringt Interessierte aus aller Welt und über
-    verschiedene Themenbereiche zusammen: drahtlose Meshes,
-    Glasfaser-Infrastruktur, DIY-ISPs, und Community-Netze ganz allgemein.
-    Das Programm verspricht sieben Tage voller Präsentationen, Workshops,
-    gemeinsamen Codens und Diskussionen.
-
-    Dank großzügigen Sponsorings ist die Teilnahme am Battlemesh gratis
-    und für alle offen. Das Team vor Ort organisiert zusätzlich günstige
-    Verpflegung und Unterkünfte.
-
-
 # Was ist FunkFeuer?
 FunkFeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke.
 Es soll dabei ein nicht reguliertes Netz entstehen, welches das Potential

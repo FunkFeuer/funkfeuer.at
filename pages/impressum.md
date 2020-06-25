@@ -10,7 +10,7 @@
 
 # Impressum / Kontakt
 
-<p>Verantwortlich für den Inhalt dieser Website ist <i>FunkFeuer Wien - Verein zur Förderung freier Netze</i>, ZVR-Zahl 814804682.</p>
+<p>Verantwortlich für den Inhalt dieser Website ist <i>FunkFeuer Wien - Verein zur Förderung freier Netze</i>, ZVR 814804682, UID ATU67830859.</p>
 
 <br/>
 **Kontaktanfragen via E-Mail:** vorstand(at)funkfeuer.at
@@ -23,15 +23,15 @@
 
 **Zustelladresse:**
 <pre>
-FunkFeuer Wien - Verein zur Förderung freier Netze, ZVR: 814804682, UID: ATU67830859
- Postfach 44
- 1016 Wien
+FunkFeuer Wien - Verein zur Foerderung freier Netze
+c/o Volkskundemuseum Wien
+Laudongasse 15-19
+1080 Wien
 </pre>
-
 
 **Bankverbindung:**
 <pre>
 FunkFeuer Wien - Verein zur Förderung freier Netze
- IBAN: AT55 2023 0000 0014 3982
- BIC/SWIFT: SPLSAT21 (Sparkasse Langenlois)
+IBAN: AT55 2023 0000 0014 3982
+BIC/SWIFT: SPLSAT21 (Sparkasse Langenlois)
 </pre>

@@ -8,6 +8,22 @@
 .. template: index_page.tmpl
 .. previewimage: https://funkfeuer.at/assets/images/card.png
 
+
+!!! initiative "Aktuell: Wireless Battle of the Mesh &mdash; Virtual Global Edition &mdash; online, 14. und 15. November 2020"
+
+    Das heurige [BattleMesh V13](https://www.battlemesh.org/BattleMeshV13),
+    das große Community-Treffen von Mesh-Begeisterten, findet statt
+
+    **kommendes Wochenende, am Samstag den 14. und Sonntag den 15. November 2020,** jeweils 15:00-19:00 **online.**
+
+    Die Veranstaltung bringt Interessierte aus aller Welt und über
+    verschiedene Themenbereiche zusammen: Routingprotokolle, drahtlose Meshes,
+    Glasfaser-Infrastruktur, DIY-ISPs, und Community-Netze ganz allgemein.
+
+    Die Teilnahme am Battlemesh ist gratis und für alle offen.
+    Zugangsdetails folgen am Samstag auf der [Battlemesh-Webseite](https://www.battlemesh.org/BattleMeshV13).
+
+
 # Was ist FunkFeuer?
 FunkFeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke.
 Es soll dabei ein nicht reguliertes Netz entstehen, welches das Potential

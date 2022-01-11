@@ -56,17 +56,6 @@ Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits
     den Rest des Bundeslands zu erobern!
     [mehr Information...](http://wels.funkfeuer.at/){style="margin-left: 1px; display:block"}
 
-!!! initiative "Innsbruck"
-    Die Freifunker in Innsbruck sind seit Herbst 2015 am basteln und haben seit
-    Mai 2016 ein aktives Netz. Allerdings werden noch dringend Leute
-    gesucht, die technisch mitarbeiten wollen und Standorte für Knoten bieten.
-    [mehr Information...](https://freifunk-innsbruck.at/){style="margin-left: 1px; display:block"}
-
-!!! initiative "Salzburg"
-    Salzburg ist momentan im Aufbruch und dabei, ein eigenes Netz aufzubauen.
-    Wohnst auch Du in der Gegend und möchtest mitmachen? Gib uns Bescheid!
-    [mehr Information...](https://wiki.freifunk.net/Funkfeuer_Salzburg){style="margin-left: 1px; display:block"}
-
 !!! initiative "Bei Dir"
     Es gibt noch keine FunkFeuer-Knoten in deiner Gegend? Dann bist Du die oder
     der Erste und andere werden Dir bald folgen. Mach mit und entzünde ein

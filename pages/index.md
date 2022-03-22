@@ -14,7 +14,7 @@ FunkFeuer ist eine offene, nicht-kommerzielle Initiative für freie Netzwerke.
 Es soll dabei ein nicht reguliertes Netz entstehen, welches das Potential
 hat, den digitalen Graben zwischen den sozialen Schichten zu überbrücken und so
 Infrastruktur und Wissen zur Verfügung zu stellen.<br/>
-Jede Person stellt ihren Knoten anderen Teilnehmer_innen zur
+Jede Person stellt ihren Knoten anderen Teilnehmenden zur
 Datenübertragung nach den Grundsätzen des
 [Pico Peering Agreement](http://www.picopeer.net/PPA-de.shtml) zur Verfügung
 und ermöglicht damit freien Datenverkehr innerhalb des Netzes.
@@ -35,7 +35,7 @@ im FunkFeuer-Netz Teil des globalen Internets sind.
 
 
 # Wie kann ich mitmachen?
-Jede_r kann mitmachen, wir bauen unser Netzwerk selbst!
+Alle können mitmachen, wir bauen unser Netzwerk selbst!
 
 Wir sind dezentral organisiert, in einigen Regionen Österreichs gibt es bereits Initiativen:
 

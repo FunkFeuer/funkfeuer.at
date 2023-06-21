@@ -33,6 +33,7 @@ NAVIGATION_LINKS = {
         ('https://forum.funkfeuer.at/', 'Forum'),
         ('https://housing.funkfeuer.at/', 'Server Housing'),
         ('https://wiki.funkfeuer.at/wiki/0xFF_in_der_Presse', 'Presse'),
+        ('/about/', 'Über uns'),
         ('/impressum/', 'Kontakt'),
     ),
 }
@@ -51,6 +52,7 @@ COMPILERS = {
 WRITE_TAG_CLOUD = False
 
 IMAGE_FOLDERS = {'images': 'images'}
+MAX_IMAGE_SIZE = 2048
 # IMAGE_THUMBNAIL_SIZE = 400
 
 INDEX_TEASERS = True

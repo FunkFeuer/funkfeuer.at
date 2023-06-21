@@ -40,7 +40,7 @@ NAVIGATION_LINKS = {
         ('https://forum.funkfeuer.at/', 'Forum'),
         ('https://housing.funkfeuer.at/', 'Server Housing'),
         ('https://wiki.funkfeuer.at/wiki/0xFF_in_der_Presse', 'Presse'),
-        ('/impressum/', 'Kontakt &amp; DSGVO-Hinweis'),
+        ('/impressum/', 'Kontakt'),
     ),
 }
 

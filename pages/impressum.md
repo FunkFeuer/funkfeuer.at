@@ -70,5 +70,27 @@ oder bei Nutzung des "Privaten Modus" Ihres Browsers ist keine
 Unterscheidung der Zugriffsmuster im Vergleich zu einem Erstbesuch mehr
 möglich.
 
-### TODO: Zuständige Stelle / DSB
+# Welche Rechte haben Sie im Bezug auf Ihre Daten?
+Sie verfügen über das Recht jederzeit und unentgeltlich Auskunft über
+Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen
+Daten zu erhalten. Außerdem besitzen Sie das Recht, die Berichtigung,
+Datenübertragbarkeit, Einschränkung der Nutzung oder Löschung dieser
+Daten zu verlangen. Diesbezüglich und auch für sämtliche weitere Fragen
+zum Thema Datenschutz können Sie sich gerne jederzeit unter der der
+oben angeführten Adresse an uns wenden.
+
+Alle von Ihnen im Rahmen der Kontaktaufnahme eingegebenen Daten
+verbleiben bei uns, bis Sie uns zur Berichtigung, Einschränkung der
+Datenverarbeitung oder Löschung auffordern, Ihre Einwilligung zur
+Speicherung Ihrer Daten widerrufen oder der Zweck für die Speicherung
+der Daten entfällt, wie zum Beispiel nach einer abgeschlossenen
+Bearbeitung einer Anfrage. Zwingende gesetzliche Bestimmung – auch
+Aufbewahrungsfristen – bleiben unberührt.
+
+# Beschwerderechte & zuständige Datenschutzbehörde
+Im Fall von datenschutzrechtlichen Verstößen stehen der betroffenen
+Person das Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
+Bei datenschutzrechtlichen Fragen oder Beschwerden handelt es sich bei
+der zuständigen Behörde um die Österreichische Datenschutzbehörde (DSB),
+Wickenburggasse 8-10, 1080 Wien. https://www.dsb.gv.at/
 

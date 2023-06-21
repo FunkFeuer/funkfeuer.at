@@ -15,13 +15,6 @@ FAVICONS = (
      ("icon", "assets/favicon.ico", "16x16"),
  )
 
-TWITTER_CARD = {
-    'use_twitter_cards': True,
-    'card': 'summary',
-    'site': '@Funkfeuer_at',
-    'creator': '@Funkfeuer_at',
-}
-
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
 LICENSE = ""
